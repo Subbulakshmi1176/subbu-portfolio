@@ -5,9 +5,9 @@ It showcases my work, projects, skills, and journey as a developer passionate ab
 🌐 **Website:** [[subbu-Portfolio]](https://your-portfolio-link.com)
 
 🖼️ **Screenshots**
-<img width="1902" height="994" alt="Screenshot 1" src="s1.png" />
-<img width="1894" height="992" alt="Screenshot 2" src="s2.png" />
-<img width="1903" height="1044" alt="Screenshot 3" src="s3.png" />
+<img width="1902" height="994" alt="Screenshot 1" src="/public/s1.png" />
+<img width="1894" height="992" alt="Screenshot 2" src="/public/s2.png" />
+<img width="1903" height="1044" alt="Screenshot 3" src="/public/s3.png" />
 
 ---
 
