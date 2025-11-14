@@ -2,7 +2,7 @@
 Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and **modern UI design** principles.  
 It showcases my work, projects, skills, and journey as a developer passionate about **AI, ML, and Web Technologies**.
 
-🌐 **Website:** [[subbu-Portfolio]](https://your-portfolio-link.com)
+🌐 **Website:** [[subbu-Portfolio]](https://subbu-portfolio-17.vercel.app/)
 
 🖼️ **Screenshots**
 <img width="1902" height="994" alt="Screenshot 1" src="/public/s1.png" />
