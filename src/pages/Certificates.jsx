@@ -12,6 +12,13 @@ const CERTS = {
       link: "/certs/cert1.jpg",
     },
     {
+      title: "AWS Academy Cloud Architecting",
+      org: "AWS Academy",
+      date: "2024",
+      img: "/certs/cert9.jpg",
+      link: "/certs/cert9.jpg",
+    },
+    {
       title: "Spring REST",
       org: "Infosys",
       date: "2025",
